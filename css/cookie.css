@@ -1,0 +1,67 @@
+:root {
+	/* --background: #007af7; */
+	--background: #fff;
+    --color-primary: #00e3c8;
+	--white-text: #00e3c8;
+	--button-background: #00e3c8;
+	--button-background-hover: #fff;
+	--button-text: #00e3c8;
+	
+}
+
+.cookie-container {
+	display: flex;
+	align-content: center;
+	align-items: center;
+	padding: 1rem 2rem;
+	background: var(--background);
+	color: var(--white-text);
+	position: fixed;
+	bottom:0;
+	font-size: 1rem;
+	gap: 2rem;
+	opacity: 1;
+	visibility: visible;
+	flex-wrap: wrap;
+	z-index: 999;
+}
+
+.cookie-container.hide {
+	opacity: 0;
+	visibility: hidden;
+}
+
+.cookie-container a {
+	color: var(--white-color);
+}
+
+.cookie-container a:hover {
+	/* color: var(--hover-text); */
+    text-decoration: underline;
+
+}
+
+.cookie-container .cookie-text {
+	flex: 8 768px;
+}
+
+.cookie-container .agree {
+	flex: 1 150px;
+	text-align: center;
+}
+
+.agree button {
+	background: var(--button-background);
+	color: var(--background);
+	border: none;
+	padding: 0.4rem 1.2rem;
+	cursor: pointer;
+	border-radius: 20px;
+	font-size: 1rem;
+}
+
+.agree button:hover {
+	background: var(--button-background-hover);
+		color: var(--white-text);
+        border: 2px solid var(--color-primary);
+}
