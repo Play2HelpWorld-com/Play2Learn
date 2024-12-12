@@ -62,7 +62,7 @@ const Header = () => {
               className="hidden h-8 w-full dark:block"
             />
             <Image
-              src="/images/logo/logo-dark.png"
+              src="/images/logo/play2learn_logo.webp"
               alt="logo"
               width={119.03}
               height={30}

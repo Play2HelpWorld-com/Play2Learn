@@ -1,14 +1,14 @@
 // docsData.tsx
 export const docsData = {
   introduction: {
-    title: "Welcome to Play2World",
+    title: "Welcome to Play2Learn ",
     content:
-      " Play2World is your ultimate destination for fun, rewards, and making a positive impact. Whether you're here to play games, earn rewards, or contribute to charitable causes, Play2World has something for everyone. Dive in and explore the exciting opportunities that await you!",
+      " Play2Learn  is your ultimate destination for fun, rewards, and making a positive impact. Whether you're here to play games, earn rewards, or contribute to charitable causes, Play2World has something for everyone. Dive in and explore the exciting opportunities that await you!",
   },
-  "what-is-play2world": {
-    title: "What Is Play2World?",
+  "what-is-Play2Learn ": {
+    title: "What Is Play2Learn ?",
     content:
-      "Play2World is a fab new place online where you can play fun, free games, via almost any device you choose. On top of that you can claim rewards for yourself and grab other benefits too. On Play2WorkWorld.com it's all about the work and the $$$ you earn this for yourself. On Play2HelpWorld.com you can donate your rewards and $$$ to major charities. On Play2HealthWorld.com you grab rewards and also get help with your healthy lifestyle. On Play2LearnWorld.com you are earning and learning. And on Play2LiveWellWorld.com grab your rewards while improving your lived environment. The more you play the more rewards you earn - it's super simple, fun and always free!",
+      "Play2Learn  is a fab new place online where you can play fun, free games, via almost any device you choose. On top of that you can claim rewards for yourself and grab other benefits too. On Play2Learn  it's all about the work and the $$$ you earn this for yourself. On Play2Learn.com you can donate your rewards and $$$ to major charities. On Play2Learn.com you grab rewards and also get help with your healthy lifestyle. On Play2LearnWorld.com you are earning and learning. And on Play2Learn.com grab your rewards while improving your lived environment. The more you play the more rewards you earn - it's super simple, fun and always free!",
   },
   "how-rewards-work": {
     title: "How Do Rewards Work?",
@@ -18,6 +18,6 @@ export const docsData = {
   "why-do-we-do-this": {
     title: "Why Do We Do This?",
     content:
-      "Given all that's going on in the world today we think it's important to give back and help others, especially those less fortunate. We also love fun, free casual games that we can play anytime on almost any device! So one day we decided to combine those two things and created Play2.Help World. We are a small community of friendly folk who really believe in this initiative and are working passionately to make it a reality. We welcome all help and in fact you can see on our website different areas where more people can help support this in various ways. So if you feel the same jump in and play the games then contact us on social media to find out more!",
+      "Given all that's going on in the world today we think it's important to give back and help others, especially those less fortunate. We also love fun, free casual games that we can play anytime on almost any device! So one day we decided to combine those two things and created Play2Learn  World. We are a small community of friendly folk who really believe in this initiative and are working passionately to make it a reality. We welcome all help and in fact you can see on our website different areas where more people can help support this in various ways. So if you feel the same jump in and play the games then contact us on social media to find out more!",
   },
 };
