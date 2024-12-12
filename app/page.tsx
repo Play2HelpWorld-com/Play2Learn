@@ -15,7 +15,7 @@ import Testimonial from "@/components/Testimonial";
 import GameSection from "@/components/Games/gameSection";
 
 export const metadata: Metadata = {
-  title: "Play2Help | Play for Free Donation",
+  title: "Play2Learn | Play for Free Donation",
   description: "This is built by Moyasi",
   // other metadata
 };
