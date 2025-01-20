@@ -13,7 +13,7 @@ const Blog = async () => {
             headerInfo={{
               title: `NEWS & BLOGS`,
               subtitle: `Latest News & Blogs`,
-              description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+              description: `Play2Learn is a groundbreaking platform designed to provide gamers with an enriching experience. It’s not just about playing games but also about learning new skills.`,
             }}
           />
         </div>

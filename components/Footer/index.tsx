@@ -46,7 +46,7 @@ const Footer = () => {
                 </a>
 
                 <p className="mb-10 mt-5">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Play games and earn rewards. Use rewards to donate to charity
                 </p>
 
                 <p className="mb-1.5 text-sectiontitle uppercase tracking-[5px]">
